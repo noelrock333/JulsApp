@@ -468,7 +468,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-JulsApp-JulsAppTests/Pods-JulsApp-JulsAppTests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-JulsApp-JulsAppTests/Pods-JulsApp-JulsAppTests-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -477,7 +477,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JulsApp-JulsAppTests/Pods-JulsApp-JulsAppTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-JulsApp-JulsAppTests/Pods-JulsApp-JulsAppTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		F455EB7946ECB345DFC8A161 /* [CP] Copy Pods Resources */ = {
@@ -486,7 +486,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-JulsApp/Pods-JulsApp-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-JulsApp/Pods-JulsApp-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -495,7 +495,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JulsApp/Pods-JulsApp-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-JulsApp/Pods-JulsApp-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
